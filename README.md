@@ -26,7 +26,9 @@ Rainbowcity Foundation
 
 ### Recorded video demo
 
+https://youtu.be/OAMhF4For7o
 
+[![IMAGE ALT TEXT](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/204.png)](https://youtu.be/OAMhF4For7o "ColourBox")
 
 ### Date when team began working on the project
 
