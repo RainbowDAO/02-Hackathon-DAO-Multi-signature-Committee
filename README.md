@@ -89,8 +89,24 @@ This product is suitable for all types of DAO organizations, whether it is a lar
 
 
 - Smart contracts docs: https://github.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/blob/main/contracts/README.md
+
+test-net-contract
+
+test-network:Kovan
+
+address
+
+#### DaoFactory
+0x04601FE27118433A232aB7b6F0d752d54a45A7cc
+
+
+#### ERC20Factory
+0x4cB8aD08984209B6C667acF4479bfd97f95cC4D6
+
+
+
 - Frontend docs: https://github.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/blob/main/Front-end%20file/README.md
-- 
+
 
 ## Project social media: 
 
