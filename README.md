@@ -117,7 +117,7 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 1. Initialize the entire contract and set the basic information of the contract.
 
 
 
@@ -127,7 +127,7 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 2. Multi-signature management committee homepage.
 
 
 
@@ -135,7 +135,7 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 3. Multi-signature management committee financial income situation.
 
 
 
@@ -143,7 +143,7 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 4. The multi-signature management committee initiates the proposal page.
 
 
 
@@ -151,7 +151,7 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 5. Multi-signature management committee member list.
 
 
 
@@ -159,14 +159,14 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 6. Multi-signature management committee member list
 
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/6.png)
 
 
-
+### 7. Multi-signature management committee impeachment page.
 
 
 
@@ -175,14 +175,14 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 8. Multi-signature management committee voting page.
 
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/8.png)
 
 
-
+### 9. Multi-signature management committee voting details.
 
 
 
@@ -192,14 +192,14 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 10. The multi-signature management committee announces detailed information.
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/10.png)
 
 
 
-
+### 11. Multi-signature management committee voting details page.
 
 
 
@@ -207,21 +207,15 @@ Rainbowcity website ：https://www.rainbowcity.io
 
 
 
-
+### 12. Multi-signature management committee executive page.
 
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/12.png)
 
-
+### 13. Multi-signature management committee proposal completion page.
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/02-Hackathon-DAO-Multi-signature-Committee/main/pic/13.png)
-
-
-
-
-
-
 
 
